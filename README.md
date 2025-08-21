@@ -11,9 +11,9 @@ O projeto **DIPCVA** foi desenvolvido com o objetivo de facilitar o cadastro e a
 
 ## Capturas de Tela
 
-- <img src="capturas_de_tela/Login.png" width="300>
-- <img src="capturas_de_tela/Home.png">
-- <img src="capturas_de_tela/Gestor.png">
+- <img src="capturas_de_tela/Login.png" width="300">
+- <img src="capturas_de_tela/Home.png" width="300">
+- <img src="capturas_de_tela/Gestor.png" width="300">
 - Veja mais nas [Capturas de tela](capturas_de_tela/)
 
 ## Passo a Passo para Testar o Projeto com XAMPP
@@ -40,6 +40,7 @@ O projeto **DIPCVA** foi desenvolvido com o objetivo de facilitar o cadastro e a
 
 ## Desempenho no Desafio
 O projeto **AcampaFácil** conquistou o **2º lugar** no **Desafio da Educação Profissional e Tecnológica do Paraná 2025**, destacando-se pela inovação e aplicabilidade prática. A solução foi reconhecida por sua abordagem sustentável e funcionalidade, oferecendo uma ferramenta que atende às necessidades reais de organização de eventos. O sucesso reflete o esforço da equipe, que combinou habilidades técnicas com criatividade, competindo com mais de 400 projetos de instituições de todo o Brasil durante a 4ª Semana Nacional de Educação Profissional e Tecnológica (SNETP), realizada em Brasília.
+
 
 
 

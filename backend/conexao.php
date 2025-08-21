@@ -2,7 +2,7 @@
 $host = "localhost";
 $usuario = "root";
 $senha = "";
-$banco = "acampamento_voluntarios";
+$banco = "dipcva";
 
 $conexao = new mysqli($host, $usuario, $senha, $banco);
 

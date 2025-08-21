@@ -11,9 +11,9 @@ O projeto **DIPCVA** foi desenvolvido com o objetivo de facilitar o cadastro e a
 
 ## Capturas de Tela
 (Adicione aqui as capturas de tela do projeto. Exemplo de como organizar:)
-- <img src="capturas_de_tela/Login.png" width="300">
-- <img src="capturas_de_tela/Home.png" width="300">
-- <img src="capturas_de_tela/Gestor.png" width="300">
+- <img src="capturas_de_tela/Login.png" width="450">
+- <img src="capturas_de_tela/Home.png" width="450">
+- <img src="capturas_de_tela/Gestor.png" width="450">
 Veja mais em [Capturas de tela](/capturas_de_tela/)
 
 
@@ -41,3 +41,4 @@ Veja mais em [Capturas de tela](/capturas_de_tela/)
 
 ## Desempenho no Desafio
 O projeto **DIPCVA** conquistou o **2º lugar** no **Desafio da Educação Profissional e Tecnológica do Paraná 2025**, destacando-se pela inovação e aplicabilidade prática. A solução foi reconhecida por sua abordagem sustentável e funcionalidade, oferecendo uma ferramenta que atende às necessidades reais de organização de eventos.
+

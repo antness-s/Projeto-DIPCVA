@@ -11,7 +11,8 @@ O projeto **DIPCVA** foi desenvolvido com o objetivo de facilitar o cadastro e a
 
 ## Capturas de Tela
 
-- <img src="capturas_de_tela/Login.png" width="500"> <img src="capturas_de_tela/Home.png" width="500">
+- <img src="capturas_de_tela/Login.png" width="500">
+- <img src="capturas_de_tela/Home.png" width="500">
 - <img src="capturas_de_tela/Gestor.png" width="500">
 - Veja mais nas [Capturas de tela](capturas_de_tela/)
 
@@ -21,24 +22,25 @@ O projeto **DIPCVA** foi desenvolvido com o objetivo de facilitar o cadastro e a
    - Certifique-se de que os módulos Apache e MySQL estão ativados.
 
 2. **Configure o Ambiente**:
-   - Extraia os arquivos do projeto em uma pasta dentro do diretório `htdocs` do XAMPP (ex.: `C:\xampp\htdocs\AcampaFácil`).
+   - Extraia os arquivos do projeto em uma pasta dentro do diretório `htdocs` do XAMPP (ex.: `C:\xampp\htdocs\DIPCVA`).
    - Abra o painel de controle do XAMPP e inicie os serviços Apache e MySQL.
 
 3. **Crie o Banco de Dados**:
    - Acesse o phpMyAdmin[](http://localhost/phpmyadmin) usando um navegador.
-   - Crie um novo banco de dados chamado `acampafacil_db`.
-   - Importe o arquivo `.sql` fornecido no projeto (se disponível) para criar as tabelas necessárias.
+   - Crie um novo banco de dados chamado `dipcva_db`.
+   - Importe o arquivo `.sql` fornecido no projeto para criar as tabelas necessárias.
 
 4. **Configure a Conexão**:
    - Edite o arquivo `conexao.php` no projeto, ajustando as credenciais do banco (host, usuário, senha, nome do banco) para corresponder ao seu ambiente local (ex.: `localhost`, `root`, sem senha).
 
 5. **Teste o Projeto**:
-   - Abra o navegador e acesse `http://localhost/AcampaFácil`.
+   - Abra o navegador e acesse `http://localhost/dipcva`.
    - Siga as interfaces para cadastrar voluntários, visualizar listas ou realizar outras funcionalidades implementadas.
    - Verifique se os dados são salvos e exibidos corretamente no banco.
 
 ## Desempenho no Desafio
-O projeto **AcampaFácil** conquistou o **2º lugar** no **Desafio da Educação Profissional e Tecnológica do Paraná 2025**, destacando-se pela inovação e aplicabilidade prática. A solução foi reconhecida por sua abordagem sustentável e funcionalidade, oferecendo uma ferramenta que atende às necessidades reais de organização de eventos. O sucesso reflete o esforço da equipe, que combinou habilidades técnicas com criatividade, competindo com mais de 400 projetos de instituições de todo o Brasil durante a 4ª Semana Nacional de Educação Profissional e Tecnológica (SNETP), realizada em Brasília.
+O projeto **DIPCVA** conquistou o **2º lugar** no **Desafio da Educação Profissional e Tecnológica do Paraná 2025**, destacando-se pela inovação e aplicabilidade prática. A solução foi reconhecida por sua abordagem sustentável e funcionalidade, oferecendo uma ferramenta que atende às necessidades reais de organização de eventos. O sucesso reflete o esforço da equipe, que combinou habilidades técnicas com criatividade.
+
 
 
 
